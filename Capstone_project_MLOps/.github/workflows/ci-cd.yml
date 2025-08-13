@@ -28,4 +28,5 @@ jobs:
 
       - name: Run prediction (inference)
         run: |
+          cd Capstone_Project_MLOps
           python predict.py
