@@ -2,7 +2,8 @@
 # Fuel Efficiency Prediction with MLflow
 
 ## Overview
-
+VM Public ip - 52.147.206.68
+.pem is in repo
 This project implements a complete MLflow pipeline for predicting vehicle fuel efficiency (MPG) using the Auto MPG dataset. It demonstrates:
 
 - Model training and comparison with MLflow tracking  
